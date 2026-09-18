@@ -43,6 +43,8 @@ lapangan padel/
 ├── vite.config.js          # Konfigurasi Vite server & build
 ├── tailwind.config.js      # Konfigurasi Tailwind CSS (tema warna neon #BBE834 & teal #2BBBAE)
 ├── postcss.config.js       # Konfigurasi PostCSS & Autoprefixer
+├── gambarSEO.png           # Gambar preview SEO resolusi tinggi (706 x 921)
+├── gambarSEO.jpg           # Gambar preview SEO terkompresi (<100 KB) untuk WhatsApp/social crawlers
 ├── build_standalone.cjs    # Script bundler untuk generate standalone.html mandiri
 ├── padelsphere.tsx         # File source code asli komponen React
 └── README.md               # Dokumentasi panduan penggunaan & preview
@@ -52,6 +54,7 @@ lapangan padel/
 
 ## ✨ Fitur-Fitur Unggulan
 
+- **Optimasi SEO & Social Share Preview**: Dilengkapi meta tags OpenGraph & Twitter Cards dengan gambar SEO (`gambarSEO.jpg`, ~75 KB, 706x921) yang teroptimasi khusus untuk WhatsApp preview link, Facebook, Telegram, dan X (Twitter).
 - **Hero Banner & Brand PadelSphere**: Desain modern bernuansa dark navy (`#072844`), electric neon (`#BBE834`), dan teal (`#2BBBAE`) yang sporty dan dinamis.
 - **Tautan Media Sosial & Lokasi**: Tombol direct link ke Instagram, TikTok, dan Google Maps lokasi Banjarmasin.
 - **Tentang Kami & History**: Informasi profil dan perjalanan PadelSphere sejak 2023 sebagai pelopor arena padel premium.
