@@ -2,6 +2,9 @@
 
 Website landing page interaktif & mobile-first untuk **PadelSphere** (Arena Padel Premium Standar World Padel Tour di Banjarmasin, Kalimantan Selatan). Dilengkapi dengan katalog lapangan indoor/outdoor, sewa raket pro, daftar harga sewa, fasilitas tambahan, lightbox galeri foto, form booking langsung ke WhatsApp, integrasi Google Maps & Media Sosial, FAQ akordeon, testimoni, dan fitur berbagi (share modal).
 
+- **Live Website:** [https://solusilokal.github.io/PadelSphere/](https://solusilokal.github.io/PadelSphere/)
+- **GitHub Repository:** [https://github.com/solusilokal/PadelSphere](https://github.com/solusilokal/PadelSphere)
+
 ---
 
 ## 🚀 Cara Menjalankan & Preview
